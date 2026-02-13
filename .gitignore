@@ -1,0 +1,6 @@
+# Tokens and config (never commit credentials)
+*.json
+!package.json
+__pycache__/
+.cache/
+*.pyc
